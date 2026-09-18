@@ -20,5 +20,5 @@ Ejercicios en archivo `.py`
 🔗 [Ver notebook en Colab](https://colab.research.google.com/drive/10gAFh-M8zwEzRiI2ebAshyLk_HvGRXX8?usp=sharing)
 
 ## PDF con diagramas de clase
-[`PDF con código y diagramas de clase`](Actividad1_py/actividad1_poo.pdf)
+- [`PDF con código y diagramas de clase`](Actividad1_py/actividad1_poo.pdf)
 
